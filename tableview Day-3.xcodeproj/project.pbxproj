@@ -16,6 +16,8 @@
 		D3676D7429D1813500CD8DC9 /* tableview_Day_3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3676D7329D1813500CD8DC9 /* tableview_Day_3Tests.swift */; };
 		D3676D7E29D1813600CD8DC9 /* tableview_Day_3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3676D7D29D1813600CD8DC9 /* tableview_Day_3UITests.swift */; };
 		D3676D8029D1813600CD8DC9 /* tableview_Day_3UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3676D7F29D1813600CD8DC9 /* tableview_Day_3UITestsLaunchTests.swift */; };
+		D3676D8D29D181BB00CD8DC9 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3676D8C29D181BB00CD8DC9 /* MyTableViewCell.swift */; };
+		D3676D8F29D1864100CD8DC9 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3676D8E29D1864100CD8DC9 /* ViewController1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		D3676D7929D1813500CD8DC9 /* tableview Day-3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "tableview Day-3UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3676D7D29D1813600CD8DC9 /* tableview_Day_3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableview_Day_3UITests.swift; sourceTree = "<group>"; };
 		D3676D7F29D1813600CD8DC9 /* tableview_Day_3UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableview_Day_3UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D3676D8C29D181BB00CD8DC9 /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
+		D3676D8E29D1864100CD8DC9 /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				D3676D5E29D1813400CD8DC9 /* SceneDelegate.swift */,
 				D3676D6029D1813400CD8DC9 /* ViewController.swift */,
 				D3676D6229D1813400CD8DC9 /* Main.storyboard */,
+				D3676D8E29D1864100CD8DC9 /* ViewController1.swift */,
+				D3676D8C29D181BB00CD8DC9 /* MyTableViewCell.swift */,
 				D3676D6529D1813500CD8DC9 /* Assets.xcassets */,
 				D3676D6729D1813500CD8DC9 /* LaunchScreen.storyboard */,
 				D3676D6A29D1813500CD8DC9 /* Info.plist */,
@@ -259,6 +265,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3676D6129D1813400CD8DC9 /* ViewController.swift in Sources */,
+				D3676D8F29D1864100CD8DC9 /* ViewController1.swift in Sources */,
+				D3676D8D29D181BB00CD8DC9 /* MyTableViewCell.swift in Sources */,
 				D3676D5D29D1813400CD8DC9 /* AppDelegate.swift in Sources */,
 				D3676D5F29D1813400CD8DC9 /* SceneDelegate.swift in Sources */,
 			);
